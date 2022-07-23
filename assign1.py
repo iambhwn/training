@@ -185,5 +185,5 @@
 # print(a)
 
 #23Python program to check whether a string starts with specified characters.
-# a='bhawan'
-# print(a.startswith('Pr'))
+a='bhawan'
+print(a.startswith('Pr'))
